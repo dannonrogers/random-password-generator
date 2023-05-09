@@ -4,7 +4,7 @@
 This exercise required a basic understanding and command of JS and storing values in variables, creating functionality with functions, using for loops and array methods to iterate through data sets, and dynamically updating dom elements. 
 
 ## Usage
-Visit <a href=https://dannonrogers.github.io/password-generator/>https://dannonrogers.github.io/password-generator/</a> to view the webpage. 
+Visit <a href=https://dannonrogers.github.io/random-password-generator/>https://dannonrogers.github.io/random-password-generator/</a> to view the webpage. 
 
 ![alt text](password-generator.png)
 
