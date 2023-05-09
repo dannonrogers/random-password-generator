@@ -1,7 +1,7 @@
-# Password Generator - JS, HTML, CSS
+# Random Password Generator - JS, HTML, CSS
 
 ## Description
-This exercise provided a real world example of resolving a feature request/on-the-job ticket, requesting a refactoring of starter code to enhance site accessibility and functionality. This tested and confirmed my understanding of basic/advanced HTML, CSS, & my ability to successfully collaborate using Git.
+This exercise required a basic understanding and command of JS and storing values in variables, creating functionality with functions, using for loops and array methods to iterate through data sets, and dynamically updating dom elements. 
 
 ## Usage
 Visit <a href=https://dannonrogers.github.io/password-generator/>https://dannonrogers.github.io/password-generator/</a> to view the webpage. 
